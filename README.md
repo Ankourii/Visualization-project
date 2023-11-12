@@ -7,8 +7,7 @@ For the purposes of this project I will be using a database I created as a part 
 This is a database with the total number of recorded births, per day, in the U.S for the years 1994-2003. I added the moon phases of each day to the dataset to examine how many children are born under each moon phase. 
 
 
-![phases](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fes%2Fimages%2Fmoon-phases-icons-set-lunar-calendar-new-full-moon-waning-crescent-first-and-last-quarter%2F534418784&psig=AOvVaw35-JyhthqYpRVnmNwba0QJ&ust=1699901685827000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjQn7ORv4IDFQAAAAAdAAAAABAd)
-
+![phases](https://as2.ftcdn.net/v2/jpg/05/34/41/87/1000_F_534418784_MChGg8kmiZLueqUptFJOoACKupKcWi1e.jpg)
 
 There are eight moon phases in each month. The first one is the New Moon. That is when the moon is dark , then it starts to fill itself throught the Waxing Cresent, First Quarter and Waxing Gibbous phases until it reaches the Full Moon phase where it is completely full. After that it starts to loose brigthness again starting with the Waning Gibbous phase, then Last Quarter, Waning Crescent and goes back to the New Moon phase once again. And the cycle repeats itself.
 
@@ -36,11 +35,11 @@ In addition to the above there are:
 
 2 to 5 solar eclipses 
 
-![solar eclipse](https://www.australiangeographic.com.au/wp-content/uploads/2023/04/Untitled-1-900x600.jpg=
+![solar eclipse](https://www.australiangeographic.com.au/wp-content/uploads/2023/04/Untitled-1-1000x667.jpg)
 
 and 0 to 3 lunar eclipses each year
 
-![lunar eclipse](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.timeanddate.com%2Feclipse%2Ftotal-lunar-eclipse.html&psig=AOvVaw2_YBc74ur0xOMRwgtalQVH&ust=1699902984912000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJiT756Wv4IDFQAAAAAdAAAAABAJ)
+![lunar eclipse](https://media.ktoo.org/wp-content/uploads/2022/11/ap22136148474266_custom-319e4a0f55b40d2c3e0483497c32e2663b68dd30-830x553.jpg)
 
 ![eclipses explanation](https://cdn1.byjus.com/wp-content/uploads/2018/12/difference-between-solar-eclipse-and-lunar-eclipse.png)
 
